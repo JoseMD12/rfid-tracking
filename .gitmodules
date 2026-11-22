@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/JoseMD12/tcc-back.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/JoseMD12/tcc-front.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/JoseMD12/ESP32-ReadTag.git
